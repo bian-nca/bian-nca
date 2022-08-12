@@ -1,8 +1,9 @@
-   👩‍💻  Olá, seja bem-vindo (a) ao meu perfil no github!
+   ### 👩‍💻  Olá, seja bem-vindo (a) ao meu perfil no github!
    
    
- - 👀 Tenho um grande interesse em seguir na area de desenvolvedora web! 
-- 🌱 Estou aprendendo HTML, CSS e rumo a javascript, react...
+- 💻 Tenho um grande interesse em seguir na area de desenvolvedora web! 
+- 💻 Estou aprendendo HTML, CSS e rumo a javascript, react...
+
 
 
 <!---
