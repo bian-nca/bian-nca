@@ -7,7 +7,7 @@
 - 🏦 Com os estudos seguidos durante o meu terceiro período do curso comecei a ter bastante interesse em MySql. Seria outra area a qual eu gostaria de atuar também!
 
 
-<img src="gitgit.gif" height:20px>
+<img src="gitgit.gif">
 
 
 <!---
