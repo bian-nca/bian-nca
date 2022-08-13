@@ -1,8 +1,10 @@
    ### 👩‍💻  Olá, seja bem-vindo (a) ao meu perfil no github!
    
-   
+
+- 🎓 Atualmente fazendo faculdade de Análise e Desenvolvimento de Sistemas na Imepac.
 - 💻 Tenho um grande interesse em seguir na area de desenvolvedora web! 
 - 💻 Estou aprendendo HTML, CSS e rumo a javascript, react...
+
 
 <img src="gitgit.gif" height:20px>
 
