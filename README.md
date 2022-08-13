@@ -4,6 +4,7 @@
 - 💻 Tenho um grande interesse em seguir na area de desenvolvedora web! 
 - 💻 Estou aprendendo HTML, CSS e rumo a javascript, react...
 
+<img src="github.gif">
 
 
 <!---
