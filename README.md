@@ -1,4 +1,4 @@
-   ### 👩‍💻  Olá, seja bem-vindo (a) ao meu perfil no github!
+   ## 👩‍💻  Olá, seja bem-vindo (a) ao meu perfil no github!
    
 
 - 🎓 Atualmente sou estudante do curso Tecnologia em Análise e Desenvolvimento de Sistemas na Imepac.
@@ -8,10 +8,7 @@
 - 🏦 Com os estudos seguidos durante o meu terceiro período do curso comecei a ter bastante interesse em MySql. Seria outra area a qual eu gostaria de atuar também!
 
 
- <img src="github.gif">
+[![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=bian-nca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/bian-nca/github-readme-stats) &nbsp; &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bian-nca&layout=compact&langs_count=16&theme=dracula)](https://github.com/bian-nca/github-readme-stats)
+<img height="140cm"  src="github.gif"> 
 
-
-<!---
-bian-nca/bian-nca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
