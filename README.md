@@ -8,7 +8,7 @@
 - 🏦 Com os estudos seguidos durante o meu terceiro período do curso comecei a ter bastante interesse em MySql. Seria outra area a qual eu gostaria de atuar também!
 
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bian-nca&layout=compact&langs_count=16&theme=dracula)](https://github.com/bian-nca/github-readme-stats) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bian-nca&layout=compact&langs_count=16&theme=dracula)](https://github.com/bian-nca/github-readme-stats) 
 <img height="140cm"  src="github.gif"> 
 
