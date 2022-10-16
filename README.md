@@ -8,8 +8,9 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bian-nca&layout=compact&langs_count=16&theme=dracula)](https://github.com/bian-nca/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bian-nca&layout=compact&langs_count=16&theme=dracula)](https://github.com/bian-nca/github-readme-stats)
 <img height="140cm"  src="github.gif"> 
+<hr>
 
 <div style="display=inline_block">
 <img align="center" height="80" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" &nbsp;>
