@@ -3,8 +3,7 @@
 
 - 🎓 Atualmente sou estudante do curso Tecnologia em Análise e Desenvolvimento de Sistemas na Imepac.
 - 💻 Tenho um grande interesse em seguir na area de full stack/web developer
-- 💻 Estou aprendendo HTML, CSS e rumo a javascript, react...
-- 💻 Estudando Programação Orientada a Objetos e Spring framework para complementar meus estudos em Java.
+- 💻 Estou aprendendo HTML, CSS e rumo a javascript
 
 
 
