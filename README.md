@@ -9,7 +9,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bian-nca&layout=compact&langs_count=16&theme=dracula)](https://github.com/bian-nca/github-readme-stats)
-<img height="140cm"  src="github.gif"> 
+
 <hr>
 
 <div style="display=inline_block">
