@@ -4,8 +4,6 @@
 
 
 - 🎓 Atualmente sou estudante do curso Tecnologia em Análise e Desenvolvimento de Sistemas na Imepac, viciada em recriar páginas de login como treino na parte de front-end. 
-- 💻 Tenho um grande interesse em seguir na area de desenvolvimento web.
-- 💻 Estou aprendendo HTML, CSS e rumo a javascript
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bian-nca&layout=compact&langs_count=16&theme=transparent)](https://github.com/bian-nca/github-readme-stats) ![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=bian-nca&show_icons=true&theme=transparent)
