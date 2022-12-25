@@ -9,7 +9,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bian-nca&layout=compact&langs_count=16&theme=transparent)](https://github.com/bian-nca/github-readme-stats) ![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=bian-nca&show_icons=true&theme=transparent)
-
+<img src="https://github.com/bian-nca/bian-nca/blob/main/github.gif">
 
 <hr>
 <h3> Linguagens de programação e marcação que estou aprendendo: </h3>
@@ -20,7 +20,4 @@
 <img align="center" height="80" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" &nbsp;>
 <img align="center" height="80" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" &nbsp;>
 
-   
-   
-<img align="right" height="80" width="40" src"github.gif">
 </div>
