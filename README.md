@@ -8,7 +8,7 @@
 - 💻 Estou aprendendo HTML, CSS e rumo a javascript
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bian-nca&layout=compact&langs_count=16&theme=transparent)](https://github.com/bian-nca/github-readme-stats)         ![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=bian-nca&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bian-nca&layout=compact&langs_count=16&theme=transparent)](https://github.com/bian-nca/github-readme-stats) ![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=bian-nca&show_icons=true&theme=transparent)
 
 
 <hr>
@@ -22,5 +22,5 @@
 
    
    
-<img align="right" height="80" width="40" src" ">
+<img align="right" height="80" width="40" src"github.gif">
 </div>
