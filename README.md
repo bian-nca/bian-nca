@@ -6,7 +6,7 @@
 - 🎓 Atualmente sou estudante do curso Tecnologia em Análise e Desenvolvimento de Sistemas na Imepac, viciada em recriar páginas de login como treino na parte de front-end. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bian-nca&layout=compact&theme=dracula)](https://github.com/bian-nca/github-readme-stats)
-
+<img src="github.gif"> 
 <hr>
 <h3> Linguagens de programação e marcação que estou aprendendo: </h3>
 <div style="display=inline_block">
