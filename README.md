@@ -3,8 +3,7 @@
 
 
 
-- 🎓 Atualmente sou estudante do curso Tecnologia em Análise e Desenvolvimento de Sistemas na Imepac, viciada em recriar páginas de login como treino na parte de front-end. 
-
+- 🎓 Atualmente sou estudante do curso Tecnologia em Análise e Desenvolvimento de Sistemas na Imepac
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bian-nca&layout=compact&theme=dracula)](https://github.com/bian-nca/github-readme-stats)
 <img src="github.gif"> 
 <hr>
