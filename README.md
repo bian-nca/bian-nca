@@ -3,7 +3,7 @@
 
 
 
-- 🎓 Atualmente sou estudante do curso Tecnologia em Análise e Desenvolvimento de Sistemas na Imepac
+- 🎓Formada em Tecnologia em Análise e Desenvolvimento de Sistemas na Imepac
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bian-nca&layout=compact&theme=dracula)](https://github.com/bian-nca/github-readme-stats) <img src="github.gif"> 
 <hr>
