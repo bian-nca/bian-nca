@@ -2,7 +2,7 @@
    
 
 - 🎓Formada em Tecnologia em Análise e Desenvolvimento de Sistemas na IMEPAC.
-- Pós graduana em Ciência de Dados.
+- Pós graduanda em Ciência de Dados.
 - Atualmente estudando a linguagem Python.
 
   
