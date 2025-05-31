@@ -2,8 +2,6 @@
    
 
 - 🎓Formada em Tecnologia em Análise e Desenvolvimento de Sistemas na IMEPAC.
-- Pós graduanda em Ciência de Dados.
-- Atualmente estudando a linguagem Python.
 
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bian-nca&layout=compact&theme=dracula)](https://github.com/bian-nca/github-readme-stats) <img src="github.gif"> 
